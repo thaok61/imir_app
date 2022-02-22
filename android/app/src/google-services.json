@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561442409635",
+    "firebase_url": "https://imir-3ee5d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "imir-3ee5d",
+    "storage_bucket": "imir-3ee5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561442409635:android:3d64b3e0e87207f53ec316",
+        "android_client_info": {
+          "package_name": "com.aded.imir_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561442409635-vr0i5nqhgnfo9hoh6vhni1bntl9pe25i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TxCxrmisg7hw1qED2_PrHH8jeeWkUhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561442409635-vr0i5nqhgnfo9hoh6vhni1bntl9pe25i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
